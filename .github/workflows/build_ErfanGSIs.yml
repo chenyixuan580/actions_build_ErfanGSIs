@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://cloud189-henan-person.oos-hazz.ctyunapi.cn/46c0d16b-2760-4323-b85e-d3cc150e469b?response-content-disposition=attachment%3Bfilename%3D%22MIUI12_MAX2_9.0_20.7.18.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D15&x-amz-CLIENTTYPEIN=WEB&Signature=2Ht5ndp/R2AQJof6kSLr5cjQRh8%3D&x-amz-SHID=169564995&AWSAccessKeyId=532482dfdc85e5d60592&Expires=1612515091&x-amz-FSIZE=2013504158&x-amz-UID=470834184&x-amz-UFID=31416310569013237
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
